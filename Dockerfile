@@ -1,2 +1,2 @@
 FROM ubuntu
-ADD ./devops /var/www/html/devops
+ADD . /var/www/html/devops
